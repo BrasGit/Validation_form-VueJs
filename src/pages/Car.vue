@@ -1,7 +1,7 @@
 <template>
     <div>
         <h1>Car id {{id}}</h1>  
-bm,hj,
+
         <button class="btn btn-sm btn-default mb-2" @click="goBackToCars">Back</button>
         <br>
         <br>
